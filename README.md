@@ -14,5 +14,11 @@ Coursera《机器学习》课程（吴恩达）编程作业
     8. [normalEqn.m](/ex1/normalEqn.m)
 
 - [Week3 Exercise2](./ex2)
-    1. []()
-    2. 
+    1. [plotData.m](/ex2/plotData.m) 
+    2. [sigmoid.m](/ex2/sigmoid.m)
+    3. [costFunction.m](/ex2/costFunction.m)
+    4. [predict.m](/ex2/predict.m)  
+    5. [costFunctionReg.m](/ex2/costFunctionReg.m)
+
+- [Week3 Exercise2](./ex3)
+    
