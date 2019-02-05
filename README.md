@@ -21,4 +21,7 @@ Coursera《机器学习》课程（吴恩达）编程作业
     5. [costFunctionReg.m](/ex2/costFunctionReg.m)
 
 - [Week3 Exercise2](./ex3)
-    
+    1. [lrCostFunction.m](/ex3/lrCostFunction.m) 
+    2. [oneVsAll.m](/ex3/oneVsAll.m)
+    3. [predictOneVsAll.m](/ex3/predictOneVsAll.m)
+    4. [predict.m](/ex3/predict.m])  
