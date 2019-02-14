@@ -25,3 +25,14 @@ Coursera《机器学习》课程（吴恩达）编程作业
     2. [oneVsAll.m](/ex3/oneVsAll.m)
     3. [predictOneVsAll.m](/ex3/predictOneVsAll.m)
     4. [predict.m](/ex3/predict.m)  
+
+- [Week5 Exercise4](./ex4)
+    1. [sigmoidGradient.m](/ex4/sigmoidGradient.m) 
+    2. [randInitializeWeights.m](/ex4/randInitializeWeights.m)
+    3. [nnCostFunction.m](/ex4/predictOneVsAll.m)
+
+- [Week6 Exercise5](./ex5)
+    1. [linearRegCostFunction.m](/ex5/linearRegCostFunction.m) 
+    2. [learningCurve.m](/ex5/learningCurve.m)
+    3. [polyFeatures.m](/ex5/polyFeatures.m)
+    4. [validationCurve.m](/ex5/validationCurve.m) 
