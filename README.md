@@ -36,3 +36,10 @@ Coursera《机器学习》课程（吴恩达）编程作业
     2. [learningCurve.m](/ex5/learningCurve.m)
     3. [polyFeatures.m](/ex5/polyFeatures.m)
     4. [validationCurve.m](/ex5/validationCurve.m) 
+
+- [Week7 Exercise6](./ex6)
+    1. [gaussianKernel.m](/ex6/gaussianKernel.m) 
+    2. [dataset3Params.m](/ex6/dataset3Params.m)
+    3. [processEmail.m](/ex6/processEmail.m)
+    4. [emailFeatures.m](/ex6/emailFeatures.m) 
+
