@@ -43,3 +43,9 @@ Coursera《机器学习》课程（吴恩达）编程作业
     3. [processEmail.m](/ex6/processEmail.m)
     4. [emailFeatures.m](/ex6/emailFeatures.m) 
 
+- [Week8 Exercise7](./ex7)
+    1. [pca.m](/ex7/pca.m) 
+    2. [projectData.m](/ex7/projectData.m)
+    3. [findClosestCentroids.m](/ex7/findClosestCentroids.m)
+    4. [computeCentroids.m](/ex7/computeCentroids.m) 
+    5. [kMeansInitCentroids.m](/ex7/kMeansInitCentroids.m) 
