@@ -50,3 +50,8 @@ Coursera《机器学习》课程（吴恩达）编程作业
     4. [findClosestCentroids.m](/ex7/findClosestCentroids.m)
     5. [computeCentroids.m](/ex7/computeCentroids.m) 
     6. [kMeansInitCentroids.m](/ex7/kMeansInitCentroids.m) 
+
+- [Week9 Exercise8](./ex8
+    1. [estimateGaussian.m](/ex8/estimateGaussian.m) 
+    2. [selectThreshold.m](/ex8/selectThreshold.m)
+    3. [cofiCostFunc.m](/ex8/cofiCostFunc.m)
